@@ -11,7 +11,6 @@ D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\b
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\roslyn\vbc.exe
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\roslyn\VBCSCompiler.exe
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
-D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\OrderedTest1.orderedtest
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\SpecflowSeleniumTest.Tests.dll.config
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\SpecflowSeleniumTest.Tests.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\SpecflowSeleniumTest.Tests.pdb
@@ -22,7 +21,6 @@ D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\b
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\nunit.framework.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\SpecflowSeleniumTest.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Net.Http.Formatting.dll
-D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Helpers.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Http.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Http.WebHost.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Mvc.dll
@@ -40,7 +38,6 @@ D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\b
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\nunit.framework.xml
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Net.Http.Formatting.xml
-D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Helpers.xml
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Http.xml
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Http.WebHost.xml
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\System.Web.Mvc.xml
@@ -54,4 +51,3 @@ D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\b
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\obj\Debug\SpecflowSeleniumTest.Tests.csprojResolveAssemblyReference.cache
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\obj\Debug\SpecflowSeleniumTest.Tests.dll
 D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\obj\Debug\SpecflowSeleniumTest.Tests.pdb
-D:\work\Projects\Visual_Studio\SpecflowSeleniumTest\SpecflowSeleniumTest.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
